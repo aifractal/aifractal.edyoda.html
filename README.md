@@ -44,9 +44,9 @@
     <h1 id="heading">Images</h1>
     <table>
       <tr>
-       <td>
+       <th colspan="3">
         <h3 class="caption">Glowworm Cave-NewZeland</h3>
-       </td>
+       </th>
       </tr>
       <tr>
         <td>
@@ -63,9 +63,9 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <th colspan="3">
          <h3 class="caption">Antelop Canyon-Arizona</h3>
-        </td>
+        </th>
       </tr>
       <tr>
         <td>
@@ -82,9 +82,9 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <th colspan="3">
          <h3 class="caption">Cappadocia-Turkey</h3>
-        </td>
+        </th>
       </tr>   
       <tr>
         <td>
@@ -101,9 +101,9 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <th colspan="3">
         <h3 class="caption">Danxia Landform-China</h3>
-        </td>
+        </th>
       </tr>   
       <tr>
         <td>
@@ -120,9 +120,9 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <th colspan="3">
          <h3 class="caption">River of Five Colors-Columbia</h3>
-         </td>
+         </th>
       </tr>   
       <tr>
         <td>
@@ -139,9 +139,9 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <th colspan="3">
          <h3 class=" caption">Automn-NewEngland</h3>
-        </td>
+        </th>
        </tr>
       <tr>
         <td>
@@ -158,9 +158,9 @@
         </td>
        </tr>
        <tr>
-         <td>
+         <th colspan="3">
          <h3 class="caption">Lavender Fields-France</h3>
-         </td>
+         </th>
         </tr>
         <tr>
          <td>
@@ -177,9 +177,9 @@
          </td>
        </tr>
        <tr>
-         <td>
+         <th colspan="3">
           <h3 class="caption">Tolip Fields-Netherland</h3>
-         </td>
+         </th>
        </tr>
        <tr>
          <td>
@@ -196,9 +196,9 @@
          </td>
        </tr>
        <tr>
-         <td>
+         <th colspan="3">
           <h3 class="caption">Takinoue Park-Japan</h3>
-         </td>
+         </th>
         </tr>
         <tr>
          <td>
