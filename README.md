@@ -33,8 +33,9 @@
       }
       .caption{
         column-span: 3;
-        text-align:;
-        padding-top: 24px;
+        text-align:center;
+        font-size:18px;
+        padding-top: 18px;
         background-color#fff0f0f1
       }
     </style>
@@ -63,7 +64,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">
+        <th colspan="4">
          <h3 class="caption">Antelop Canyon-Arizona</h3>
         </th>
       </tr>
@@ -82,7 +83,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">
+        <th colspan="4">
          <h3 class="caption">Cappadocia-Turkey</h3>
         </th>
       </tr>   
@@ -101,7 +102,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">
+        <th colspan="4">
         <h3 class="caption">Danxia Landform-China</h3>
         </th>
       </tr>   
@@ -120,7 +121,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">
+        <th colspan="4">
          <h3 class="caption">River of Five Colors-Columbia</h3>
          </th>
       </tr>   
@@ -139,7 +140,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="3">
+        <th colspan="4">
          <h3 class=" caption">Automn-NewEngland</h3>
         </th>
        </tr>
@@ -158,7 +159,7 @@
         </td>
        </tr>
        <tr>
-         <th colspan="3">
+         <th colspan="4">
          <h3 class="caption">Lavender Fields-France</h3>
          </th>
         </tr>
@@ -177,7 +178,7 @@
          </td>
        </tr>
        <tr>
-         <th colspan="3">
+         <th colspan="4">
           <h3 class="caption">Tolip Fields-Netherland</h3>
          </th>
        </tr>
@@ -196,7 +197,7 @@
          </td>
        </tr>
        <tr>
-         <th colspan="3">
+         <th colspan="4">
           <h3 class="caption">Takinoue Park-Japan</h3>
          </th>
         </tr>
